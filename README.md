@@ -7,14 +7,20 @@ Electrical Engineer (CREA-PR) and self-taught full-stack developer from Brazil. 
 ### What I build
 
 - **Engineering tools**: normative calculations encoded exactly as the standard defines them, with traceability and auditable manual overrides
-- **SaaS**: [Sistema NEMAX](https://sistemanemax.com.br), a multi-tenant platform for dental and health clinic management
+- **SaaS**: [Sistema NEMAX](https://github.com/itsnetomaset/sistema-nemax), a multi-tenant platform for dental and health clinic management
 - **Internal systems**: construction contract management, inspection checklists and operational panels
 - **Websites** for local businesses
 
-### Featured project
+### Featured projects
 
 **[⚡ SPDA Risk Assessment Tool](https://github.com/itsnetomaset/spda-risk-assessment-nbr5419)** · [live demo](https://itsnetomaset.github.io/spda-risk-assessment-nbr5419/)
 11-module wizard covering ABNT NBR 5419:2026 Parts 2, 3 and 4: risk assessment, SPDA sizing, surge protection and PDF report. Vanilla JS, zero dependencies, offline-first.
+
+**[🦷 Sistema NEMAX](https://github.com/itsnetomaset/sistema-nemax)** · [website](https://sistemanemax.com.br)
+Multi-tenant SaaS for dental and health clinics, in production with paying customers. Database per tenant, field-level AES-256-GCM encryption, subscription billing and automated onboarding. PHP 8.3 and MariaDB.
+
+**[🎯 Prospec](https://github.com/itsnetomaset/prospec)**
+Lead prospecting panel for a web design agency: finds local businesses with no website or a weak one through Google, scores them and runs the WhatsApp outreach as a team funnel. PHP and MySQL.
 
 ### Stack
 
