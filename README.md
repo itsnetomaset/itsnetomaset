@@ -34,4 +34,4 @@ Electrical Engineer (CREA-PR) and self-taught full-stack developer from Brazil. 
 
 ### Contact
 
-🌐 [nemaxengenharia.com.br](https://nemaxengenharia.com.br) · ✉️ itsnetomaset@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/giuseppemasetneto) · 🌐 [nemaxengenharia.com.br](https://nemaxengenharia.com.br) · ✉️ itsnetomaset@gmail.com
