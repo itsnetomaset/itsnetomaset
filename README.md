@@ -40,4 +40,4 @@ Multi-tenant SaaS for dental and health clinics, in production with paying custo
 
 ### Contact
 
-💼 [LinkedIn](https://www.linkedin.com/in/giuseppemasetneto) · 🌐 [nemaxengenharia.com.br](https://nemaxengenharia.com.br) · ✉️ itsnetomaset@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/giuseppemasetneto) · 🌐 [nemaxengenharia.com.br](https://nemaxengenharia.com.br)
